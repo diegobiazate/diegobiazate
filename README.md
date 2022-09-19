@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegobiazate&label=Profile%20views&color=0e75b6&style=flat" alt="diegobiazate" /> </p>
 
-- 🔭 I’m currently working on [New Tecnologia](https://www.newtecnologia.net/)
+- 🔭 I’m currently working on [Dev Biazate LTDA](https://www.linkedin.com/in/diegorbiazate/)
 
 - 🌱 I’m currently learning **NodeJS, React, React Native, Typescript...**
 
