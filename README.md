@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **NodeJS, React, Typescript**
 
-- 📫 How to reach me **diegorbiazate@gmail.com**
+- 📫 How to reach me **diego@devbiazate.com.br**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/diegorbiazate/](https://www.linkedin.com/in/diegorbiazate/)
 
